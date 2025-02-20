@@ -13,9 +13,9 @@ Full disclosure: I know next to nothing about texture upscaling, I'm just a guy 
 
 ## Upscaling method & model used
 
-For v0.1-beta, [RealESRGAN](https://github.com/xinntao/Real-ESRGAN) was used to create a 4x upscale of the original Quake 3 textures. Then, downscaling was used to create the 3x and 2x versions.
+For v0.2-beta, [RealESRGAN](https://github.com/xinntao/Real-ESRGAN) was used to create a 4x upscale of the original Quake 3 textures. Then, downscaling was used to create the 3x and 2x versions.
 
-The model used for scaling is `realesrgan-x4plus` which seems to do a great job, albeit a bit darker than the original textures when looking at them side-by-side, I don't really notice it in game.
+The model used for scaling is `realesrgan-x4plus` which seems to do a great job, albeit a bit darker than the original textures. A gamma boost of 20% was applied after the upscaling to restore the images closer to their original brightness levels.
 
 For future versions, I'm testing a few other upscaling models and will update when they are ready for testing.
 
