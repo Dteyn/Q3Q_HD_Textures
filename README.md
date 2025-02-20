@@ -3,7 +3,7 @@ Upscaled HD texture packs designed specifically for use with the VR port of Quak
 
 ## About this texture pack
 
-This upscaling pack uses AI upscaling tool [RealESRGAN](https://github.com/xinntao/Real-ESRGAN) to upscale the original Quake 3 textures to 4x their original resolution.
+This texture pack was upscaled using AI upscaling tool [RealESRGAN](https://github.com/xinntao/Real-ESRGAN) to upscale the original Quake 3 textures to 4x their original resolution. From that 4x version, smaller 3x and 2x scaled versions were also created for ideal performance on the Quest platform.
 
 I created this pack because I tried some of the other Quake 3 HD texture packs out there, and found that the best looking one I could find ([Quake 3 Neural Upscale](https://www.moddb.com/mods/quake-3-neural-upscale) by MamiyaOtaru, released 2019) looks great but doesn't have great performance on Quake3Quest. The 4x upscale is a bit heavy on performance and can introduce a stutter to the game, in addition to crashing the game on 4 levels.
 
