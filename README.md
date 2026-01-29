@@ -63,3 +63,5 @@ For future versions, I'm testing a few other upscaling models and will update wh
 Using the 3x upscale is recommended on Quest 3, and 2x upscale on Quest 2. Although, from my testing (playing at 120 fps), I think the Quest 2 can handle the 3x upscale also as I didn't notice any frame drops when using it, but your mileage may vary. I've also been testing the 4x pack on Quest 3 and it seems to perform okay, but more testing is needed across more levels.
 
 All feedback is welcome! Feel free to open an [issue](https://github.com/Dteyn/Q3Q_HD_Textures/issues) if you run into any troubles or have suggestions for improvement. I can also be found on the Team Beef Discord server.
+
+You are visitor: ![Page views](https://dteyn-rad-page.netlify.app/.netlify/functions/pageviews?repo=Q3Q_HD_Textures)
